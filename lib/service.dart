@@ -10,6 +10,7 @@ class ListService{
     }
   }
 
+  //used to get list on change
   static List getList(){
     return exampleList;
   }
